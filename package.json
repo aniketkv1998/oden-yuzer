@@ -1,0 +1,26 @@
+{
+  "name": "oden-yuzer",
+  "version": "1.0.0",
+  "description": "Handles user data",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniketkv1998/oden-yuzer.git"
+  },
+  "author": "Chattopadhyay, Aniket",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aniketkv1998/oden-yuzer/issues"
+  },
+  "homepage": "https://github.com/aniketkv1998/oden-yuzer#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "helmet": "^7.1.0",
+    "mongoose": "^8.0.3",
+    "morgan": "^1.10.0",
+    "pino": "^8.17.2"
+  }
+}
